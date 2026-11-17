@@ -1,0 +1,30 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Uploaded documents and datasets
+*.pdf
+*.txt
+
+# Model files
+*.pkl
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
