@@ -1,5 +1,3 @@
-# RAG-using-pre-trained-LLM
-
 # Retrieval-Augmented Generation (RAG) for Domain-Specific Question Answering
 
 ## Project Overview
